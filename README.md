@@ -49,7 +49,7 @@
 2. [Enunciado do Desafio](#-enunciado-do-desafio)
 3. [O que foi Entregue](#-o-que-foi-entregue)
 4. [Anatomia da Página](#-anatomia-da-página)
-5. [⚠️ Pontos de Atenção](#-pontos-de-atenção-antes-de-subir)
+5. [Pontos de Atenção](#-pontos-de-atenção-antes-de-subir)
 6. [Checklist de Avaliação](#-checklist-de-avaliação)
 7. [Código-Fonte](#-código-fonte)
 8. [Preview](#-preview)
