@@ -26,11 +26,7 @@
 ![Aula](https://img.shields.io/badge/Aula-5%20%C2%B7%20HTML%20Parte%201-6f42c1?style=flat-square)
 ![Autor](https://img.shields.io/badge/Autor-Vinycius%20Lopes%20Monteiro%20da%20Silva-0ea5e9?style=flat-square)
 
-<br/>
-
-*Boa sorte, desenvolvedor! Que a força dos pixels esteja com você!* 🕹️
-
-<br/>
+<br>
 
 **[Sobre a Atividade](#-sobre-a-atividade)** &nbsp;•&nbsp;
 **[O que foi entregue](#-o-que-foi-entregue)** &nbsp;•&nbsp;
@@ -82,6 +78,7 @@ Este repositório contém a página feita por **Vinycius Lopes Monteiro da Silva
 | Loja de games retro | 50 linhas | HTML puro | Funcionalidade sobre aparência |
 
 </div>
+<br>
 
 **Os 5 elementos essenciais pedidos:**
 
@@ -221,7 +218,7 @@ O `<title>` da aba está como `preços`. Como é o que aparece na aba do navegad
 - [x] Imagem incluída no código
 - [x] Tabela com 3 produtos
 - [ ] Imagem com caminho relativo (funcionando fora da sua máquina)
-- [ ] Arquivo com 50 linhas ou menos
+- [x] Arquivo com menos de 60 linhas
 
 <p align="right"><a href="#readme-top">⬆ voltar ao topo</a></p>
 
@@ -241,7 +238,7 @@ O `<title>` da aba está como `preços`. Como é o que aparece na aba do navegad
 </head>
 <body>
     <h1>🎮GameZone Retro</h1>
-        <p>A <strong>melhor loja</strong> de <em>jogos clássicos</em> da cidade!</p>
+        <p> A <strong> melhor loja </strong> de <em> jogos clássicos </em> da cidade! </p>
             <a href="#tabela-precos">Ver Preços</a>
             <a href="https://instagram.com" target="_blank">Instagram</a>
         <br> 
@@ -301,7 +298,7 @@ O `<title>` da aba está como `preços`. Como é o que aparece na aba do navegad
 
 <div align="center">
 
-![Preview da página GameZone Retro](GAMERETRO.png")
+![Preview da página GameZone Retro]("C:\Users\Dev_1o_Ano\Downloads\GAMERETRO.png")
 
 <sub> Captura de tela da página no navegador, após corrigir o caminho da imagem.</sub>
 
