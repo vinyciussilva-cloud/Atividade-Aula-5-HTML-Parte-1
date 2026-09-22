@@ -49,7 +49,7 @@
 2. [Enunciado do Desafio](#-enunciado-do-desafio)
 3. [O que foi Entregue](#-o-que-foi-entregue)
 4. [Anatomia da Página](#-anatomia-da-página)
-5. [⚠️ Pontos de Atenção (antes de subir)](#-pontos-de-atenção-antes-de-subir)
+5. [⚠️ Pontos de Atenção](#-pontos-de-atenção-antes-de-subir)
 6. [Checklist de Avaliação](#-checklist-de-avaliação)
 7. [Código-Fonte](#-código-fonte)
 8. [Preview](#-preview)
@@ -400,7 +400,7 @@ assignment/
 | 👨‍🏫 **Professor** | Raul Porto Lopes |
 | 📚 **Atividade** | Aula 5 — HTML Parte 1 |
 | 💯 **Valor** | 100 pontos |
-| 🐙 **GitHub** | [@SEU-USUARIO](https://github.com/vinyciussilva-cloud) |
+| 🐙 **GitHub** | [vinyciussilva-cloud](https://github.com/vinyciussilva-cloud) |
 
 </div>
 
