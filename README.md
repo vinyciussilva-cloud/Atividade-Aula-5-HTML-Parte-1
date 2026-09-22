@@ -386,10 +386,6 @@ assignment/
 
 ## 👾 Autor
 
-<div align="center">
-
-### 🕹️ Ficha do Jogador
-
 | | |
 |:--|:--|
 | 👤 **Aluno** | Vinycius Lopes Monteiro da Silva |
@@ -399,18 +395,9 @@ assignment/
 | 💯 **Valor** | 100 pontos |
 | 🐙 **GitHub** | [vinyciussilva-cloud](https://github.com/vinyciussilva-cloud) |
 
-</div>
-
-> [!IMPORTANT]
-> Projeto **acadêmico**, desenvolvido para fins de aprendizado por **Vinycius Lopes Monteiro da Silva**.
-
 <div align="center">
 
-<br/>
-
-**Boa sorte, desenvolvedor! Que a força dos pixels esteja com você!** 🕹️
-
-<br/>
+<br>
 
 <a href="#readme-top">⬆ voltar ao topo</a>
 
